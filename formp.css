@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+fieldset{
+    background-color: rgb(184, 236, 99);
+}
+#heading h1{
+    text-align:center ;
+    text-decoration-style: solid;
+}
+.intro{
+    font-size: 18px;
+    font-family: sans-serif;
+    border: 40%;
+}
+#language{
+    font-size: 15px;
+}
+#summary{
+    font-size: 17px;
+    height: 100px;
+    width: 400px;
+}
+#summit{
+    text-align: center;
+    font-size: 25px;
+    text-shadow: 50px;
+    box-sizing: 20px;
+}
+.upload{
+    font-size: 15px;
+}
+#summit :hover{
+    background-color: rgb(173, 91, 91);
+}
